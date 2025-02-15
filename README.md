@@ -1,3 +1,4 @@
+HI MY NAME IS SEMIR SULTAN
 # 💫 About Me:
 👋Hi my name is semir sultan<br>🌱I am currently learning computer science<br>✅ I'm looking to collaborate on any software related projects<br>💪Active member of saint mary's university since 2014<br> 📆I am daily active 
 
