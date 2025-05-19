@@ -4,7 +4,7 @@
 </p>
 <hr/>
 # 💫 About Me:
-<h4 align="center"> I'm Semir Sultan👋, a passionate and curious Game and web developer who thrives on turning ideas🌱 into impactful digital experiences✅. With a strong foundation in Computer Science, I’m driven by a love for building, learning, and continuously📆 improving my craft in web development.</h4>
+<h4 align="center"> I'm Semir Sultan👋, a passionate and curious Game and web developer who thrives on turning ideas🌱 into impactful digital experiences✅. With a strong foundation in Computer Science, I’m driven by a love for building, learning, and continuously📆 improving my craft in Game&web development.</h4>
 <br>
 
 
