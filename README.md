@@ -1,6 +1,6 @@
 # Greetings, I'm Semir Sultan <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game%20developer;Frontend%20developer;Game%20dev%20Entusiast&center=true&width=500&height=50&font=Roboto"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game%20developer;FullStack%20developer;Game%20dev%20Entusiast&center=true&width=500&height=50&font=Roboto"></a>
 </p>
 <hr/>
 # 💫 About Me:
